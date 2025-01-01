@@ -1,0 +1,10 @@
+names:
+- Benchy
+- CoffeeMug
+- F1Car
+- RubberDuck
+- Shuttle
+nc: 5
+test: test/point_clouds
+train: train/point_clouds
+val: val/point_clouds

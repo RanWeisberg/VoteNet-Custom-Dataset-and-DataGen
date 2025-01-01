@@ -1,0 +1,26 @@
+Mean Loss: 48.15954869343684
+Center Loss: 0.9393575707880351
+Objectness Loss: 0.04330770292211897
+Heading Classification Loss: 2.014745991505109
+Heading Regression Loss: 0.13592830394896177
+Size Classification Loss: 0.889684498252777
+Size Regression Loss: 0.0012988255539802104
+Semantic Classification Loss: 0.8889098605857446
+Average Positive Ratio: 0.046364182692307694
+Average Negative Ratio: 0.9446570763221154
+Precision: 0.4007734492735173
+Recall: 0.7448026636197661
+Confusion Matrix:
+TP: 36686, FP: 54852, TN: 949778, FN: 12570
+Benchy Average Precision: 0.005089752904665622
+CoffeeMug Average Precision: 0.32128260086015303
+F1Car Average Precision: 0.008205969062415285
+RubberDuck Average Precision: 0.17712164260061933
+Shuttle Average Precision: 0.1542362852348001
+mAP: 0.1331872501325307
+Benchy Recall: 0.2469908521906596
+CoffeeMug Recall: 0.6479653262701661
+F1Car Recall: 0.07937273823884197
+RubberDuck Recall: 0.54541074439894
+Shuttle Recall: 0.2853699686671487
+AR: 0.3610219259531513
