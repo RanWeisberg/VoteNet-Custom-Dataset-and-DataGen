@@ -1,0 +1,12 @@
+# Placeholder File for .bin Data Files
+
+This text file is placed here to indicate where the .bin files from the KITTI dataset should be stored. 
+
+Path Example:
+example/kitti_files/2011_09_26_drive_0001_sync/velodyne_points/data/
+
+Before running the dataset generation scripts, ensure that:
+1. All .bin files are placed in this directory.
+2. This placeholder text file is deleted to avoid any interference.
+
+Note: The `.bin` files represent LiDAR point cloud data from the KITTI dataset.
