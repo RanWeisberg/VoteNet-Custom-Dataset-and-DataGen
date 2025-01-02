@@ -1,5 +1,7 @@
 # Adaptation of VoteNet for Outdoor 3D Object Detection Using Synthetic Datasets
 
+![Example Results](./example_results.png)
+
 ## Introduction
 
 This repository presents the culmination of my B.Sc. final project in mechanical engineering, focusing on adapting the VoteNet framework for 3D object detection in outdoor environments. Originally designed for indoor applications, VoteNet required extensive modifications to handle the complexities of outdoor scenes, presenting both technical and conceptual challenges.
@@ -12,7 +14,6 @@ Furthermore, adapting the VoteNet framework to work with outdoor data required s
 
 This project demonstrates the potential of synthetic datasets for advancing 3D object detection in real-world applications. The resulting pipeline bridges the gap between VoteNet's original indoor focus and the demands of dynamic outdoor environments, paving the way for future advancements in autonomous systems, robotics, and augmented reality.
 
-![Example Results](./example_results.png)
 
 ---
 
